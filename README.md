@@ -1,4 +1,6 @@
 ## MongoDB Assignment
+Written SQL queries and mongoDB collection 
+
 
 This repository now also includes:
 
