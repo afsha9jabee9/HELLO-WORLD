@@ -1,0 +1,52 @@
+[
+  {
+    "player_id": 1,
+    "name": "Shubman Gill",
+    "age": 25,
+    "role": "Batsman",
+    "matches": 85,
+    "runs": 3500,
+    "wickets": 0,
+    "team": "India"
+  },
+  {
+    "player_id": 2,
+    "name": "Hardik Pandya",
+    "age": 31,
+    "role": "All-Rounder",
+    "matches": 120,
+    "runs": 2800,
+    "wickets": 90,
+    "team": "India"
+  },
+  {
+    "player_id": 3,
+    "name": "Kuldeep Yadav",
+    "age": 30,
+    "role": "Bowler",
+    "matches": 100,
+    "runs": 400,
+    "wickets": 170,
+    "team": "India"
+  },
+  {
+    "player_id": 4,
+    "name": "Mohammed Shami",
+    "age": 34,
+    "role": "Bowler",
+    "matches": 150,
+    "runs": 600,
+    "wickets": 320,
+    "team": "India"
+  },
+  {
+    "player_id": 5,
+    "name": "KL Rahul",
+    "age": 33,
+    "role": "Wicket-Keeper",
+    "matches": 140,
+    "runs": 5200,
+    "wickets": 0,
+    "team": "India"
+  }
+]
