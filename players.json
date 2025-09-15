@@ -2,9 +2,9 @@
   {
     "player_id": 1,
     "name": "Shubman Gill",
-    "age": 25,
+    "age": 29,
     "role": "Batsman",
-    "matches": 85,
+    "matches": 76,
     "runs": 3500,
     "wickets": 0,
     "team": "India"
@@ -12,7 +12,7 @@
   {
     "player_id": 2,
     "name": "Hardik Pandya",
-    "age": 31,
+    "age": 30,
     "role": "All-Rounder",
     "matches": 120,
     "runs": 2800,
@@ -21,8 +21,8 @@
   },
   {
     "player_id": 3,
-    "name": "Kuldeep Yadav",
-    "age": 30,
+    "name": "Mohammed Siraj",
+    "age": 24,
     "role": "Bowler",
     "matches": 100,
     "runs": 400,
